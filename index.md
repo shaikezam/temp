@@ -1,5 +1,4 @@
-# Hello World
-
+# Hello World :rocket:
 ```java
 package com.shai.ldapsearch;
 
