@@ -1,4 +1,4 @@
-# Hello World :rocket:
+# Hello World 🔥
 ```java
 package com.shai.ldapsearch;
 
