@@ -14,15 +14,34 @@ public class LdapSearchApplication {
     }
 }
 ```
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <person>
+    <name>John Doe</name>
+    <age>30</age>
+    <email>john.doe@example.com</email>
+  </person>
+  <person>
+    <name>Jane Smith</name>
+    <age>25</age>
+    <email>jane.smith@example.com</email>
+  </person>
+</root>
 
-|  asdasd |  asdasdas |
-| ------------ | ------------ |
-|  aaa | aaaaa  |
-|  bbbb | ccccasasdas  |
+```
 
-[Blog1][1]
+```java
+package com.shai.ldapsearch;
 
-[1]: blog/blog1 "My Blog1" :bowtie:
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-[My Blog2](blog/blog2 "My Blog2") hello to my blog :tw-26f5:
+@SpringBootApplication
+public class LdapSearchApplication {
 
+    public static void main(String[] args) {
+        SpringApplication.run(LdapSearchApplication.class, args);
+    }
+}
+```
