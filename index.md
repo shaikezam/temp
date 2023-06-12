@@ -30,4 +30,6 @@ public class LdapSearchApplication {
 
 ```
 
-### Hello
+### Hello 🚀
+[My cool blog1](blog/blog1 "My cool blog1")
+[My cool blog2](blog/blog2 "My cool blog2")
