@@ -7,15 +7,16 @@ Skilled in E2E integration: Design, implementation, testing, delivery & support,
 
 I've created this blog to publish on a weekley base a random topic that's related to Java platform, Cloud Computing and Software Architecture.
 
-If you have any questions, please, [eMail me :email:](mailto:shaike.zam@gmail.com "eMail me").
+If you have any questions, please, [eMail me :email:](mailto:shaike.zam@gmail.com "eMail me")
 
 Stay tuned for more tutorials!
+
 *- Shaike*
 
 [:octocat: github](https://github.com/shaikezam/) / [:dolls: linkedin](https://www.linkedin.com/in/shai-zambrovski-112505a5/)
 
 ------------
-## article
+## articles
 - [01-12-2021](article/spring_cloud_stream_imperative "Spring Cloud Stream Imperative Programming") Spring Cloud Stream Imperative Programming
 - [01-12-2021](article/lock "Lock Interface") :key: Lock Interface
 - [02-11-2021](article/countdownlatch "CountDownLatch usages") :timer_clock: CountDownLatch Usages
