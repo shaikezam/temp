@@ -5,8 +5,8 @@
 The `Lock` interface (unlike the `synchronized` mechanism), provides us an implementations to handle in more sophisticated way with concurrency issues.
 
 The Lock interface has several methods:
-- ` void lock() `- Acquires the lock, if the lock is not available then the current thread becomes disabled for thread scheduling purposes and lies dormant until the lock has been acquired.
-- ` void lockInterruptibly() throws InterruptedExceptionlockInterruptibly() `- This method acquires the lock if the block is free while allowing for the thread to be interrupted by some other thread while acquiring the lock and return immediately without acquiring the lock.
+- `void lock()` - Acquires the lock, if the lock is not available then the current thread becomes disabled for thread scheduling purposes and lies dormant until the lock has been acquired.
+- `void lockInterruptibly() throws InterruptedExceptionlockInterruptibly()`- This method acquires the lock if the block is free while allowing for the thread to be interrupted by some other thread while acquiring the lock and return immediately without acquiring the lock.
 - `boolean tryLock() `- Acquires the lock if it is available and returns immediately with the value `true`, If the lock is not available then this method will return immediately with the value `false`.
 - `boolean tryLock(long time, TimeUnit unit)` throws InterruptedException -  Same as above and waits for a certain time period as defined by arguments.
 - `void unlock() `- Releases the lock.
