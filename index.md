@@ -2,9 +2,8 @@
 
 :skull:
 
-:octocat:
+[:octocat: Github](https://github.com/shaikezam ":octocat: Github") [:dolls: Linkedin](https://www.linkedin.com/in/shai-zambrovski-112505a5/ ":dolls: Linkedin")
 
-:octocat:  :octocat:
 
 [22-12-2019 Handling Properties](blog/handling_properties "Handling Properties")
 
