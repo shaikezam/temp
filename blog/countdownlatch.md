@@ -1,4 +1,4 @@
-# CountDownLatch usages
+# CountDownLatch Usages
 *22-11-2021 - Shai Zambrovski*
 
 ------------
