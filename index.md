@@ -1,17 +1,11 @@
 ### About Me 🚀
-Sr. Software engineer with a BSc degree from Afeka Tel Aviv Academic College of Engineering.
+Software engineer specializing in backend development & software architecture.
 
-Specializing in backend development using JavaSE, JavaEE, JUnit & Spring Framework (Spring, Spring Boot & Spring Cloud).
+I've created this site to publish topics related to JDK, Data, Cloud Computing and Software Architecture.
 
-Skilled in E2E integration: Design, implementation, testing, delivery & support, software specification gathering, and problem solving skills.
+Any questions? [eMail me :email:](mailto:shaike.zam@gmail.com "eMail me")
 
-I've created this blog to publish on a weekley base a random topic that's related to Java platform, Cloud Computing and Software Architecture.
-
-If you have any questions, please, [eMail me :email:](mailto:shaike.zam@gmail.com "eMail me")
-
-Stay tuned for more tutorials!
-
-*- Shaike*
+GL & HF :star2:
 
 [:octocat: github](https://github.com/shaikezam/) / [:dolls: linkedin](https://www.linkedin.com/in/shai-zambrovski-112505a5/)
 
