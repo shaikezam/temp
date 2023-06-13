@@ -1,13 +1,11 @@
-### About Me 🚀
+### Shai Zambrovski 
 Software engineer specializing in backend development & software architecture.
 
 I've created this site to publish topics related to JDK, Data, Cloud Computing and Software Architecture.
 
-Any questions? [eMail me :email:](mailto:shaike.zam@gmail.com "eMail me")
+GL & HF 🚀
 
-GL & HF :star2:
-
-[:octocat: github](https://github.com/shaikezam/) / [:dolls: linkedin](https://www.linkedin.com/in/shai-zambrovski-112505a5/)
+[:octocat: github](https://github.com/shaikezam/) / [:dolls: linkedin](https://www.linkedin.com/in/shai-zambrovski-112505a5/) / [:email: eMail me](mailto:shaike.zam@gmail.com)
 
 ------------
 ## articles
