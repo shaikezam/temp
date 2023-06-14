@@ -9,6 +9,7 @@ GL & HF 🚀
 
 ------------
 ## articles
+- [22-12-2021](article/spring_cloud_stream_functional "Spring Cloud Stream Functional Programming") Spring Cloud Stream Functional Programming
 - [01-12-2021](article/spring_cloud_stream_imperative "Spring Cloud Stream Imperative Programming") Spring Cloud Stream Imperative Programming
 - [01-12-2021](article/lock "Lock Interface") :key: Lock Interface
 - [02-11-2021](article/countdownlatch "CountDownLatch usages") :timer_clock: CountDownLatch Usages
