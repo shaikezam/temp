@@ -9,6 +9,7 @@ GL & HF 🚀
 
 ------------
 ## articles
+- [18-01-2022](article/function_bifunction "Function & BiFunction Java 8 API") `Function` & `BiFunction` Java 8 API
 - [18-01-2022](article/supplier "Supplier Java 8 API") `Supplier` Java 8 API
 - [18-01-2022](article/consumer_biconsumer "Consumer & BiConsumer Java 8 API") `Consumer` & `BiConsumer` Java 8 API
 - [18-01-2022](article/java_singleton "Singleton in Java") `Singleton` in Java
