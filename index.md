@@ -9,6 +9,7 @@ GL & HF 🚀
 
 ------------
 ## articles
+- [18-01-2022](article/consumer_biconsumer "Consumer & BiConsumer Java 8 API") `Consumer` & `BiConsumer` Java 8 API
 - [18-01-2022](article/java_singleton "Singleton in Java") `Singleton` in Java
 - [18-01-2022](article/spring_qualifier "Spring @Qualifier Annotation") :flashlight: Spring `@Qualifier` Annotation
 - [22-12-2021](article/spring_cloud_stream_functional "Spring Cloud Stream Functional Programming") Spring Cloud Stream Functional Programming
