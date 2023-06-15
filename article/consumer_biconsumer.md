@@ -25,7 +25,7 @@ In this tutorial we will learn about the `Consumer` & `BiConsumer` `FunctionalIn
 ## Consumer interface
 A `FunctionalInterface` that can be used when creating `lambda expressions` or `method references` (Constructor references irrelevant as Consumer returns nothing) in which accepts an argument and returns nothing.
 
-The `Consumer FunctionalInterface` has only one method named `accept()`, also we can chain multiple Consumers with the `andThen() `method.
+The `Consumer FunctionalInterface` has only one method named `accept()`, also we can chain multiple Consumers with the `andThen()` method.
 #### Consumer by method references:
 
 ```java

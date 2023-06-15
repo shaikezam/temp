@@ -1,7 +1,7 @@
 ### Shai Zambrovski 
 Software engineer specializing in backend development & software architecture.
 
-I've created this site to publish topics related to JDK, data engineering, cloud computing and software architecture.
+I've created this blog to publish topics related to JDK, data engineering, cloud computing and software architecture.
 
 GL & HF 🚀
 
@@ -9,6 +9,7 @@ GL & HF 🚀
 
 ------------
 ## articles
+- [18-01-2022](article/supplier "Supplier Java 8 API") `Supplier` Java 8 API
 - [18-01-2022](article/consumer_biconsumer "Consumer & BiConsumer Java 8 API") `Consumer` & `BiConsumer` Java 8 API
 - [18-01-2022](article/java_singleton "Singleton in Java") `Singleton` in Java
 - [18-01-2022](article/spring_qualifier "Spring @Qualifier Annotation") :flashlight: Spring `@Qualifier` Annotation
