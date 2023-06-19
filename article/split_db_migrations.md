@@ -12,6 +12,7 @@ To handle those issues we must separate the migration part from the services its
 
 ## The Solution - K8S Jobs
 To demonstrate our solution, we will using Kubernetes as a services orchestration (if you are not familiar with K8S, please read about it, it must have in your tool box).
+
 ![](https://shaikezam.com/style/split_db_migration.png)
 
 In our scenario, we have a simple application, that runs inside K8S deployment in three pods.
