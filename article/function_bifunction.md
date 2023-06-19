@@ -58,7 +58,7 @@ public static void main(String[] args) {
     System.out.println(doubleAndMultipleByTwo.apply(3.0)); //Will print 18.0 to the console.
 }
 ```
-### `static identity()` - Returns a function that always returns its input argument.
+#### `static identity()` - Returns a function that always returns its input argument.
 ```java
 public static void main(String[] args) {
     List<User> users = List.of(new User("shaikezam"), new User("koo"));
